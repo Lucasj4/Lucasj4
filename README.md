@@ -19,8 +19,35 @@ Apasionado por construir soluciones web modernas usando el stack MERN. Me enfoco
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
 </p>
+---
+## 📚 Formación
+
+### 🎓 Académica
+- **Técnico Universitario en Programación**  
+  Universidad Tecnológica Nacional – Facultad Regional Concordia  
+  Graduado en marzo de 2025.
 
 ---
+### 💻 Formación Complementaria - Coderhouse
+
+- **Programación Backend**  
+  Noviembre 2023 – Junio 2024  
+  [Coder Café](https://github.com/Lucasj4/CoderCafe)
+
+- **React JS**  
+  Septiembre 2023 – Noviembre 2023  
+  [Proyecto Final React](https://github.com/Lucasj4/ProyectoFinalReactJulia)
+
+- **JavaScript**  
+  Julio 2023 – Septiembre 2023  
+  [Proyecto Final JS](https://github.com/Lucasj4/ProyectoFinalJulia)
+
+- **Desarrollo Web**  
+  Abril 2023 – Junio 2023  
+  [Sitio Web - Proyecto Final](https://pf-julia.vercel.app/)
+
+---
+
 
 ## 🚀 Proyectos destacados
 
