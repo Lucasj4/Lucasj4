@@ -32,19 +32,16 @@ Apasionado por construir soluciones web modernas usando el stack MERN. Me enfoco
 
 - **Programación Backend**  
   Noviembre 2023 – Junio 2024  
-  [Coder Café](https://github.com/Lucasj4/CoderCafe)
 
 - **React JS**  
   Septiembre 2023 – Noviembre 2023  
-  [Proyecto Final React](https://github.com/Lucasj4/ProyectoFinalReactJulia)
-
+ 
 - **JavaScript**  
   Julio 2023 – Septiembre 2023  
-  [Proyecto Final JS](https://github.com/Lucasj4/ProyectoFinalJulia)
-
+  
 - **Desarrollo Web**  
   Abril 2023 – Junio 2023  
-  [Sitio Web - Proyecto Final](https://pf-julia.vercel.app/)
+  
 
 ---
 
