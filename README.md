@@ -28,7 +28,7 @@ Apasionado por construir soluciones web modernas usando el stack MERN. Me enfoco
   Sistema web para la gestión de productos y ventas de una ferretería. Incluye autenticación, CRUD completo y panel de administración.
 
 - [Coder Café](https://github.com/Lucasj4/CoderCafe)  
-  E-commerce simulado para una cafetería, con React y funcionalidades de carrito de compras y navegación de productos.
+  Es una aplicación de e-commerce desarrollada con JavaScript, Express y Handlebars que permite a los usuarios comprar productos, administrarlos, y experimentar funcionalidades avanzadas como roles, autenticación, WebSockets y tests automatizados.
 
 - [Proyecto Final React](https://github.com/Lucasj4/ProyectoFinalReactJulia)  
   Aplicación construida con React como parte de un proyecto final, usando componentes reutilizables y manejo de estado.
