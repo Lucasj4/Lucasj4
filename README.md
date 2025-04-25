@@ -34,8 +34,9 @@ Apasionado por construir soluciones web modernas usando el stack MERN. Me enfoco
   E-commerce inspirado en el universo de Tolkien, desarrollado como proyecto final para el curso de React.
   Permite explorar productos, agregarlos al carrito y generar órdenes de compra. Toda la información (usuarios, productos y órdenes) se gestiona mediante Firebase.
 
-- [Proyecto Final Backend](https://github.com/Lucasj4/ProyectoFinalJulia)  
-  Backend completo con Node.js y Express, incluyendo rutas protegidas y conexión a base de datos MongoDB.
+- [Mini E-commerce JS](https://github.com/Lucasj4/ProyectoFinalJulia)  
+  Aplicación web desarrollada en JavaScript puro, que simula un e-commerce con funcionalidades básicas de carrito de compras. Se destaca el uso del DOM, manejo de eventos, almacenamiento local y     alertas interactivas con SweetAlert2.
+
 
 ---
 
