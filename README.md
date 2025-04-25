@@ -30,8 +30,9 @@ Apasionado por construir soluciones web modernas usando el stack MERN. Me enfoco
 - [Coder Café](https://github.com/Lucasj4/CoderCafe)  
   Es una aplicación de e-commerce desarrollada con JavaScript, Express y Handlebars que permite a los usuarios comprar productos, administrarlos, y experimentar funcionalidades avanzadas como roles, autenticación, WebSockets y tests automatizados.
 
-- [Proyecto Final React](https://github.com/Lucasj4/ProyectoFinalReactJulia)  
-  Aplicación construida con React como parte de un proyecto final, usando componentes reutilizables y manejo de estado.
+- [CoderGamer](https://github.com/Lucasj4/ProyectoFinalReactJulia)  
+  E-commerce inspirado en el universo de Tolkien, desarrollado como proyecto final para el curso de React.
+  Permite explorar productos, agregarlos al carrito y generar órdenes de compra. Toda la información (usuarios, productos y órdenes) se gestiona mediante Firebase.
 
 - [Proyecto Final Backend](https://github.com/Lucasj4/ProyectoFinalJulia)  
   Backend completo con Node.js y Express, incluyendo rutas protegidas y conexión a base de datos MongoDB.
