@@ -20,6 +20,7 @@ Apasionado por construir soluciones web modernas usando el stack MERN. Me enfoco
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
 </p>
 ---
+
 ## 📚 Formación
 
 ### 🎓 Académica
